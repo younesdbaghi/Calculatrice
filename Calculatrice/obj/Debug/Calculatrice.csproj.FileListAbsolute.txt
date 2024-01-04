@@ -1,0 +1,10 @@
+C:\Users\AdMin\Desktop\#C-SHARP#\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\Users\AdMin\Desktop\#C-SHARP#\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+C:\Users\AdMin\Desktop\#C-SHARP#\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\AdMin\Desktop\#C-SHARP#\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Calculatrice.resources
+C:\Users\AdMin\Desktop\#C-SHARP#\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+C:\Users\AdMin\Desktop\#C-SHARP#\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.cache
+C:\Users\AdMin\Desktop\#C-SHARP#\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\AdMin\Desktop\#C-SHARP#\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Users\AdMin\Desktop\#C-SHARP#\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
+C:\Users\AdMin\Desktop\#C-SHARP#\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.AssemblyReference.cache
